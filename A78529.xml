@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present vvarre parallel'd. Or A briefe relation of the five yeares civil warres of Henry the Third, King of England, with the event and issue of that unnaturall warre, and by what course the kingdome was then setled againe. Extracted out of the most authenticke historians and records.</title>
+            <author>Chamberlayne, Edward, 1616-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78529</idno>
+            <idno type="STC">Wing C1845</idno>
+            <idno type="STC">Thomason E389_11</idno>
+            <idno type="STC">Thomason E389_12</idno>
+            <idno type="STC">ESTC R201525</idno>
+            <idno type="EEBO-CITATION">99862025</idno>
+            <idno type="PROQUEST">99862025</idno>
+            <idno type="VID">160246</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160246)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E389[11] or 62:E389[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present vvarre parallel'd. Or A briefe relation of the five yeares civil warres of Henry the Third, King of England, with the event and issue of that unnaturall warre, and by what course the kingdome was then setled againe. Extracted out of the most authenticke historians and records.</title>
+                  <author>Chamberlayne, Edward, 1616-1703.</author>
+               </titleStmt>
+               <extent>[2], 33, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edward Chamberlayne by Wing.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "May 27".</note>
+                  <note>"A postscript. Out of this briefe narration may be extracted somewhat for king, and Commons" is identified as Thomason E.389[12].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kings and rulers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Henry III, 1216-1272 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="postscript">
+            <pb facs="tcp:160246:31" rendition="simple:additions"/>
+            <head>A Poſtſcript.</head>
+            <p>OUt of this briefe Narration may be extracted ſomewhat for KING, and Commons.</p>
+            <p>For the KING.</p>
+            <p>Firſt, for preventing Seditions and Rebellions; then for ſetling a Kingdome after the Rebellion ſup<g ref="char:EOLhyphen"/>preſt.</p>
+            <p>For the firſt; That he beware how he entruſt the Government of His Kingdome to others. How He ſuffer His Favourites, and great Officers of State, to ſuck him into neceſſities, and inthrall Him by indi<g ref="char:EOLhyphen"/>gency, and be thereby drawne, by extraordinary il<g ref="char:EOLhyphen"/>legall Impoſitions and Taxes, to vexe and alienate the hearts and affections of His Subjects, and then (as he muſt) be conſtrained to flie to them for reliefe and counſell in Parliament; where (he may then be ſure) he muſt be Subject to his Subjects, and they will be kings over their King: where he muſt be content to be leſſe then he ſhould be, and the Subject will be more: where (he may be ſure) they will make ad<g ref="char:EOLhyphen"/>vantage of his neceſſitie, and he muſt undergoe ma<g ref="char:EOLhyphen"/>ny hard cenſures, and be vexed with undutifull de<g ref="char:EOLhyphen"/>mands, before they will relieve him. But whether they part with their money or not, let the King take heed of ever parting with his Power.</p>
+            <pb n="32" facs="tcp:160246:2"/>
+            <p>Then after the heat and heart of a Rebellion be broken, not to be ſevere againſt any, leſt the reſt grow deſperate. Severity may blow up, never blow out, the flames of Rebellion.</p>
+            <p>Yet to ſhew ſome acts of Juſtice and power as well as grace and mercy; not to uſe the extremity of Ju<g ref="char:EOLhyphen"/>ſtice, leaſt he thereby renew the preſent Rebellion; yet to ſhew <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Juſtice to prevent a future.</p>
+            <p>By a ſweet mixture of mercie and juſtice, the King ſhall at once b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th humble and oblige his delinquent Subjects. By mercy, in not taking the rigour of the Law; by Juſtice, in taking a part of the Law: by this, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſhall humble them in taking ſo much; by that he ſhall oblige them in taking no more.</p>
+            <p>Next, to take ſpeciall care in rewarding, and che<g ref="char:EOLhyphen"/>riſhing, and countenancing, and remembring (before others) all thoſe that ſtuck cloſe unto him, that by their perſons, or their purſes, ſhewed themſelves re<g ref="char:EOLhyphen"/>ally for him, and, without all fallacie, loyall.</p>
+            <p>After this to prepare ſpeedily for ſome Forraigne Expedition, wherein to imploy all the late Active Spirits, and working heads, who will quickly make worke againe at home, if they have not worke abroad.</p>
+            <p>Laſtly, to place ſome one (as a Scavenger) in eve<g ref="char:EOLhyphen"/>ry Countie, to carry away the dreggs that are left behind. Such as will not beyond Sea, cannot work, and are aſhamed to beg.</p>
+            <p>For the People this.</p>
+            <p>Firſt, that they ſuffer not themſelves to be abuſed and miſ-led into diſloyalty, by any ambitious, un<g ref="char:EOLhyphen"/>quiet,
+<pb n="33" facs="tcp:160246:2"/>cunning Spirits, upon what pretences ſoever, and when Liberty, Religion, or any publique good is pretended, then moſt of all to ſuſpect their private ends.</p>
+            <p>Next, that the People never get by this courſe, but often looſe their former ancient Liberties and Priviledges, according to that obſervable (though not obſerved) <hi>Maxime,</hi> EVERY REBELLI<g ref="char:EOLhyphen"/>ON SUPPREST MAKES THE KING MORE KING, AND THE SUBJECT MORE SUBJECT.</p>
+            <p>Laſtly, that taking Armes without Soveraigne au<g ref="char:EOLhyphen"/>thority, upon what pretences ſoever (be they never ſo faire, as for Religion, or Liberty; never ſo foo<g ref="char:EOLhyphen"/>liſh, as that it is not againſt the King, but for the King) is moſt abominable in the eyes of God, and though it ſeeme to proſper for a time, yet moſt ſure<g ref="char:EOLhyphen"/>ly and ſeverely is it puniſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in the end, ending com<g ref="char:EOLhyphen"/>monly in a generall impoveriſhment (if not in the end) of the people, and ſome dreadfull Judgement upon the Contrivers.</p>
+            <q>
+               <p>My Sonne feare thou the <hi>LORD,</hi> and the King,
+<note place="margin">
+                     <hi>Prov.</hi> 24. <hi>ver.</hi> 21.22.</note> and med<g ref="char:EOLhyphen"/>dle not with them that are given to change:</p>
+               <p>For their Calamity ſhall riſe ſuddenly, and who know<g ref="char:EOLhyphen"/>eth the ruine of them both?</p>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
